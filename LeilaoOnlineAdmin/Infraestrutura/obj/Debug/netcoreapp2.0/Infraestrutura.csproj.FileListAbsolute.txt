@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\bin\Debug\netcoreapp2.0\Infraestrutura.deps.json
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\bin\Debug\netcoreapp2.0\Infraestrutura.dll
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\obj\Debug\netcoreapp2.0\Infraestrutura.AssemblyInfo.cs
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\bin\Debug\netcoreapp2.0\Infraestrutura.runtimeconfig.json
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\Infraestrutura\bin\Debug\netcoreapp2.0\Infraestrutura.runtimeconfig.dev.json
