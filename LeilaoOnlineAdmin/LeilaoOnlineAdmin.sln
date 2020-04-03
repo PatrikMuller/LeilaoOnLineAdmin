@@ -3,9 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeilaoOnlineAdmin", "LeilaoOnlineAdmin\LeilaoOnlineAdmin.csproj", "{9A1A7DDB-CACA-49F3-926C-045D346D2DC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeilaoOnlineAdmin", "LeilaoOnlineAdmin\LeilaoOnlineAdmin.csproj", "{9A1A7DDB-CACA-49F3-926C-045D346D2DC9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6DB82C0A-A07C-41E8-A858-3B474D62B807} = {6DB82C0A-A07C-41E8-A858-3B474D62B807}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestrutura", "Infraestrutura\Infraestrutura.csproj", "{6DB82C0A-A07C-41E8-A858-3B474D62B807}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestrutura", "Infraestrutura\Infraestrutura.csproj", "{6DB82C0A-A07C-41E8-A858-3B474D62B807}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperAdmin", "DapperAdmin\DapperAdmin.csproj", "{73301983-C222-4CF4-9B88-F5F3D5621459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateAdmin", "NHibernateAdmin\NHibernateAdmin.csproj", "{A42DC6CC-4A9E-4325-AFED-0802ABECCA55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +28,14 @@ Global
 		{6DB82C0A-A07C-41E8-A858-3B474D62B807}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DB82C0A-A07C-41E8-A858-3B474D62B807}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DB82C0A-A07C-41E8-A858-3B474D62B807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73301983-C222-4CF4-9B88-F5F3D5621459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73301983-C222-4CF4-9B88-F5F3D5621459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73301983-C222-4CF4-9B88-F5F3D5621459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73301983-C222-4CF4-9B88-F5F3D5621459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42DC6CC-4A9E-4325-AFED-0802ABECCA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42DC6CC-4A9E-4325-AFED-0802ABECCA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42DC6CC-4A9E-4325-AFED-0802ABECCA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42DC6CC-4A9E-4325-AFED-0802ABECCA55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

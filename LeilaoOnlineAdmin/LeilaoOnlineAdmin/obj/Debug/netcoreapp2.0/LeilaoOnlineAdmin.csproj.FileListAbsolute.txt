@@ -1,0 +1,14 @@
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\bin\Debug\netcoreapp2.0\LeilaoOnlineAdmin.deps.json
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\bin\Debug\netcoreapp2.0\LeilaoOnlineAdmin.runtimeconfig.json
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\bin\Debug\netcoreapp2.0\LeilaoOnlineAdmin.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\bin\Debug\netcoreapp2.0\LeilaoOnlineAdmin.dll
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\bin\Debug\netcoreapp2.0\LeilaoOnlineAdmin.pdb
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\obj\Debug\netcoreapp2.0\LeilaoOnlineAdmin.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\obj\Debug\netcoreapp2.0\LeilaoOnlineAdmin.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\obj\Debug\netcoreapp2.0\LeilaoOnlineAdmin.AssemblyInfo.cs
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\obj\Debug\netcoreapp2.0\LeilaoOnlineAdmin.dll
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\obj\Debug\netcoreapp2.0\LeilaoOnlineAdmin.pdb
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\obj\Debug\netcoreapp2.0\LeilaoOnlineAdmin.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\bin\Debug\netcoreapp2.0\Infraestrutura.dll
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\bin\Debug\netcoreapp2.0\Infraestrutura.pdb
+C:\Users\User\Source\Repos\LeilaoOnLineAdmin\LeilaoOnlineAdmin\LeilaoOnlineAdmin\obj\Debug\netcoreapp2.0\LeilaoOnlineAdmin.csproj.CopyComplete

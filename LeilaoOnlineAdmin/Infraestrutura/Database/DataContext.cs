@@ -1,7 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using Infraestrutura.Model;
 
 namespace Infraestrutura.Database
 {
@@ -11,8 +9,8 @@ namespace Infraestrutura.Database
         //public DbSet<Book> Books { get; set; }
         //public DbSet<Author> Authors { get; set; }
 
-        ////Banco pdv
-        //public DbSet<Carrinho> Carrinhos { get; set; }
+        //Banco pdv
+        public DbSet<ModelModelo> Models { get; set; }
         //public DbSet<CarrinhoFormaPagamento> CarrinhoFormaPagamentos { get; set; }
         //public DbSet<CarrinhoItem> CarrinhoItems { get; set; }
         //public DbSet<CarrinhoPessoa> CarrinhoPessoas { get; set; }
@@ -26,7 +24,7 @@ namespace Infraestrutura.Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql(@"Server=localhost;Port=5432;Database=pdv;User Id=login_pdv;Password=123456;");
+            optionsBuilder.UseNpgsql(@"Server=localhost;Port=5432;Database=leilao_online;User Id=user_leilao_online;Password=detranR0;");
         }
 
         public void InicializaDB()
